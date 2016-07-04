@@ -3,6 +3,10 @@ layout: post
 title: Left
 category: posts
 ---
+layout: post
+title: Left
+category: posts
+---
 
 Left is a clean, whitespace-happy layout for [Jekyll][jekyll].
 
